@@ -8,6 +8,7 @@ This is a terminal based Tic Tac Toe game
 
 2)The board is made based on the x, y coordinate system
   for example:- 
+  
      (0, 0) | (0, 1) | (0, 2)  
    ____________________________
      (1, 0) | (1, 1) | (1, 2)
